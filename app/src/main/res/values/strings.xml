@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Examen Final</string>
+    <string name="inicio">Inicio</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="logo">logo</string>
+    <string name="title_activity_pedidos">Pedidos</string>
+    <string name="pedidosdetalle">Detalle del Pedido</string>
+    <string name="total">Total: S/</string>
+    <string name="title_activity_pedidos_detalles">PedidosDetallesActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_inicio_sesion">InicioSesionActivity</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="title_activity_caja">Caja</string>
+    <string name="title_activity_caja_insert">CajaInsertActivity</string>
+    <string name="title_activity_caja_principal">CajaPrincipalActivity</string>
+    <string name="title_activity_caja_envios">Envios</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+    <string name="title_activity_hamburguesa">Hamburguesas</string>
+    <string name="title_activity_envios2">EnviosActivity2</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_activity_detalle_envios">DetalleEnviosActivity</string>
+    <string name="title_activity_detalle_pedido">DetallePedidoActivity</string>
+    <string name="title_activity_tareas">Tareas</string>
+    <string name="title_activity_tareas_insert">TareasInsertActivity</string>
+    <string name="title_activity_task_prueba">TaskPruebaActivity</string>
+    <string name="title_activity_escritorio_gmail">EscritorioGmailActivity</string>
+    <string name="title_activity_login_gmail">LoginGmailActivity</string>
+</resources>
